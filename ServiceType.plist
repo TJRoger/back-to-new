@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>retrade</key>
+	<array/>
+	<key>recycle</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>refrigerator</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>air conditioning</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>washer</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cabinet air conditioning</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TV</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>maintain</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>hooded air conditioning</string>
+			<key>price</key>
+			<integer>108</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>caninet air conditioning</string>
+			<key>price</key>
+			<integer>168</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chinese-style hood</string>
+			<key>price</key>
+			<integer>260</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>European-style hood</string>
+			<key>price</key>
+			<integer>310</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>wahser</string>
+			<key>price</key>
+			<integer>118</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>refrigerator</string>
+			<key>price</key>
+			<integer>148</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>water heater</string>
+			<key>price</key>
+			<integer>88</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>stove</string>
+			<key>price</key>
+			<integer>68</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>sterilizer</string>
+			<key>price</key>
+			<integer>88</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>microwave</string>
+			<key>price</key>
+			<integer>68</integer>
+		</dict>
+	</array>
+	<key>repair</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>hood</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>refrigerator</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>hooded air conditioning</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cabinet air conditioning</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>central air conditioning</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>washer</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>air conditioning</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Move</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>repair</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>install</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>refill</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>exchange</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
