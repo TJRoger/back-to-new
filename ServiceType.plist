@@ -32,6 +32,12 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>central air conditioning</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>TV</string>
 			<key>price</key>
 			<integer>0</integer>
@@ -39,18 +45,6 @@
 	</array>
 	<key>appliances maintain</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>hooded air conditioning</string>
-			<key>price</key>
-			<integer>108</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>cabinet air conditioning</string>
-			<key>price</key>
-			<integer>168</integer>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>Chinese-style hood</string>
@@ -65,15 +59,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>washer</string>
+			<string>hooded air conditioning</string>
 			<key>price</key>
-			<integer>118</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>refrigerator</string>
-			<key>price</key>
-			<integer>148</integer>
+			<integer>108</integer>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -83,7 +71,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>stove</string>
+			<string>washer</string>
+			<key>price</key>
+			<integer>118</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cabinet air conditioning</string>
+			<key>price</key>
+			<integer>168</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>microwave</string>
 			<key>price</key>
 			<integer>68</integer>
 		</dict>
@@ -95,7 +95,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>microwave</string>
+			<string>refrigerator</string>
+			<key>price</key>
+			<integer>148</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>stove</string>
 			<key>price</key>
 			<integer>68</integer>
 		</dict>
@@ -122,6 +128,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>water heater</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>washer</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>cabinet air conditioning</string>
 			<key>price</key>
 			<integer>0</integer>
@@ -129,12 +147,6 @@
 		<dict>
 			<key>name</key>
 			<string>central air conditioning</string>
-			<key>price</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>washer</string>
 			<key>price</key>
 			<integer>0</integer>
 		</dict>
