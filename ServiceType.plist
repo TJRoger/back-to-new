@@ -2,9 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>retrade</key>
+	<key>appliances retrade</key>
 	<array/>
-	<key>recycle</key>
+	<key>appliances recycle</key>
 	<array>
 		<dict>
 			<key>name</key>
@@ -37,7 +37,7 @@
 			<integer>0</integer>
 		</dict>
 	</array>
-	<key>maintain</key>
+	<key>appliances maintain</key>
 	<array>
 		<dict>
 			<key>name</key>
@@ -100,7 +100,7 @@
 			<integer>68</integer>
 		</dict>
 	</array>
-	<key>repair</key>
+	<key>appliances repair</key>
 	<array>
 		<dict>
 			<key>name</key>
