@@ -110,7 +110,13 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>hood</string>
+			<string>Chinese-style hood</string>
+			<key>price</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>European-style hood</string>
 			<key>price</key>
 			<integer>0</integer>
 		</dict>
